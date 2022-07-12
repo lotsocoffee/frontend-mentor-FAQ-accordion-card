@@ -10,7 +10,8 @@ Using methodoligies as:
 
 MOBILE
 
-![image](https://user-images.githubusercontent.com/106696579/178575833-c690c284-0cd7-4629-bcaf-bc195f8bc4c0.png)
+![image](https://user-images.githubusercontent.com/106696579/178577107-166eca3f-6d61-42a3-83f0-ac32fb9adad5.png)
+
 
 CONTENT
 
@@ -19,7 +20,8 @@ CONTENT
 
 DESKTOP
 
-![image](https://user-images.githubusercontent.com/106696579/178575543-04fc4b62-ecae-4e78-a632-3156ae20d9dc.png)
+![image](https://user-images.githubusercontent.com/106696579/178577187-05d96576-61fc-45da-b08c-16cb9abd3588.png)
+
 
 CONTENT
 
