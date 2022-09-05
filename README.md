@@ -1,6 +1,6 @@
 # Frontend-mentor-faq-accordion-card
 
-RESPONSIVE CARD FOR A FAC.
+RESPONSIVE CARD FOR A FAQ.
 
 Using methodoligies as:
 
